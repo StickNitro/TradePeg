@@ -30,10 +30,10 @@ WHERE pack.PackID = 2 /* case(s) */
 ```
 
 The above query would output the following for cases:
-![](query_output_cases.png)
+![](query_output_cases.PNG)
 
 or for pallets:
-![](query_output_pallets.png)
+![](query_output_pallets.PNG)
 
 ### Files
 [TradePeg.sql](TradePeg.sql) - Database script to create database as per the above
