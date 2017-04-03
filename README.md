@@ -30,9 +30,11 @@ WHERE pack.PackID = 2 /* case(s) */
 ```
 
 The above query would output the following for cases:
+
 ![](query_output_cases.PNG)
 
 or for pallets:
+
 ![](query_output_pallets.PNG)
 
 ### Files
